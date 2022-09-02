@@ -5,6 +5,9 @@ exports[`renders correctly 1`] = `
   <h1>
     Display Active Users Account Details
   </h1>
+  <h1>
+    Shyna
+  </h1>
   <h3>
     Fetching Users...
   </h3>

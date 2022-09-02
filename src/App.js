@@ -29,6 +29,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <h1>Display Active Users Account Details</h1>
+        <h1>Shyna</h1>
         {error ? <p>{error.message}</p> : null}
         {!isLoading ? (
           users.map((user) => {
